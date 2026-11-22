@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://aminenakrou.github.io/Dinic-Algorithme_de_flot_maximum/">🌐 Site interactif</a> &nbsp;·&nbsp;
-  <a href="https://github.com/aminenakrou/Dinic-Algorithme_de_flot_maximum/blob/main/rapport.pdf">📄 Rapport PDF</a> &nbsp;·&nbsp;
+  <a href="https://aminenakrou.github.io/dinic-flot-maximum/">🌐 Site interactif</a> &nbsp;·&nbsp;
+  <a href="https://github.com/aminenakrou/dinic-flot-maximum/blob/main/rapport.pdf">📄 Rapport PDF</a> &nbsp;·&nbsp;
   <a href="#-exécution">🚀 Démarrage rapide</a>
 </p>
 
@@ -26,7 +26,7 @@ Le **problème du flot maximum** consiste à déterminer la quantité maximale d
 
 L'**algorithme de Dinic** résout ce problème de manière efficace grâce à une recherche itérative de chemins augmentants par **parcours en largeur (BFS)** dans un graphe résiduel, garantissant une complexité en **O(V² × E)**.
 
-> 🔗 **[Voir la démonstration interactive →](https://aminenakrou.github.io/Dinic-Algorithme_de_flot_maximum/)**
+> 🔗 **[Voir la démonstration interactive →](https://aminenakrou.github.io/dinic-flot-maximum/)**
 
 ---
 
@@ -177,7 +177,7 @@ Itération 3 : BFS → 1→2→4→5     min_cap = 10    flot = 40
 Itération 4 : Aucun chemin       → STOP          flot_max = 40
 ```
 
-> 💡 Testez l'exécution pas à pas sur le **[site interactif](https://aminenakrou.github.io/Dinic-Algorithme_de_flot_maximum/)** — simulez l'algorithme visuellement avec des particules de flot animées !
+> 💡 Testez l'exécution pas à pas sur le **[site interactif](https://aminenakrou.github.io/dinic-flot-maximum/)** — simulez l'algorithme visuellement avec des particules de flot animées !
 
 ---
 
